@@ -8,6 +8,8 @@ Welcome to my profile, just call me Alya or Sherly. I am an undergraduate studen
    
 Feel free to reach out to me for collaborations or just to say hi! 😊
 
+---
+
 ### ⚡ Fun fact:
 > “I have a great curiosity about almost everything in this world, especially about digital developments.”
 
