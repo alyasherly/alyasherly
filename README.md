@@ -7,8 +7,6 @@ Welcome to my profile, just call me Alya or Sherly. I am an undergraduate studen
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/alya-sherly-al-azmy-563621328))
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aalyasherly/)
-   
-Feel free to reach out to me for collaborations or just to say hi! 😊
 
 ---
 
