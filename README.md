@@ -8,6 +8,13 @@ Welcome to my profile, just call me Alya or Sherly. I am an undergraduate studen
    
 Feel free to reach out to me for collaborations or just to say hi! 😊
 
+### ⚡ Fun fact:
+> “I have a great curiosity about almost everything in this world, especially about digital developments.”
+
+---
+
+Thank you for visiting my profile! Have a great day!
+
 <!---
 alyasherly/alyasherly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
