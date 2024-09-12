@@ -4,10 +4,10 @@ Welcome to my profile, just call me Alya or Sherly. I am an undergraduate studen
 ---
 
 ## 🌐 You can find me on:
-
+<center>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/alya-sherly-al-azmy-563621328))
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aalyasherly/)
-
+</center>
 ---
 
 ### ⚡ Fun fact:
