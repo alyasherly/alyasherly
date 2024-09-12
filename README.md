@@ -1,5 +1,5 @@
 # Hi there!! 👋 
-welcome to my profile. my name is Alya Sherly Al Azmy. I am an undergraduate student of Informatics Engineering at Universitas PGRI Semarang. I have big interested in AI development, and currently learning Python.
+Welcome to my profile, just call me Alya or Sherly. I am an undergraduate student of Informatics Engineering at Universitas PGRI Semarang. I have big interested in AI development, and currently learning Python.
 
 ## 🌐 You can find me on:
 
