@@ -1,6 +1,8 @@
 # Hi there!! 👋 
 Welcome to my profile, just call me Alya or Sherly. I am an undergraduate student of Informatics Engineering at Universitas PGRI Semarang. I have big interested in AI development, and currently learning Python.
 
+---
+
 ## 🌐 You can find me on:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/alya-sherly-al-azmy-563621328))
